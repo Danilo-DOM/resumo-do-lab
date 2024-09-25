@@ -9,3 +9,7 @@ Neste topico aprendi sobre os beneficios da nuvem microsoft, como segurança, es
 ## Configurando uma instância de Banco de Dados na Azure.
 Nesse modulo aprendia sobre os tipo de modelos que a nuvem possui (IaaS, PaaS, SaaS), no nivel compartilhado que aprendi sobre o compromisso com o tipo de contratação com a microsoft,e quanto é de responsábilidade da Microfet ou da usuario final. Aprendi a criar uma
 VM na azzure e configuarções para criaçãodo serviço.
+
+## Construindo Arquiteturas no Azure
+Nesse topico aprendi na pratica sobre como construir uma arquitetura no azzure, criando recursos, nomeando e atribuindo licenças e boa práticas como segurança e permissionamento de usuarios e acesso. Aprendi tambem sobre uma demonstração sobre como é um datacenter da Microsoft e suas instalações acessos, projetos, servidores e visualizei de uma forma global todas os datacenters no mundo e suas conexões entre paises.
+
