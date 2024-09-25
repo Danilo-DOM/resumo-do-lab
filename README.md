@@ -11,5 +11,5 @@ Nesse modulo aprendia sobre os tipo de modelos que a nuvem possui (IaaS, PaaS, S
 VM na azzure e configuarções para criaçãodo serviço.
 
 ## Construindo Arquiteturas no Azure
-Nesse topico aprendi na pratica sobre como construir uma arquitetura no azzure, criando recursos, nomeando e atribuindo licenças e boa práticas como segurança e permissionamento de usuarios e acesso. Aprendi tambem sobre uma demonstração sobre como é um datacenter da Microsoft e suas instalações acessos, projetos, servidores e visualizei de uma forma global todas os datacenters no mundo e suas conexões entre paises.
+Nesse tópico aprendi na pratica sobre como construir uma arquitetura no azure, criando recursos, nomeando e atribuindo licenças e boa práticas como segurança e permissionamento de usuários e acesso. Aprendi também sobre uma demonstração sobre como é um datacenter da Microsoft e suas instalações acessos, projetos, servidores e visualizei de uma forma global todas os datacenters no mundo e suas conexões entre países.
 
