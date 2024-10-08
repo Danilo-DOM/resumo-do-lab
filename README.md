@@ -15,3 +15,6 @@ Nesse tópico aprendi na pratica sobre como construir uma arquitetura no azure, 
 
 ## Configurando Recursos e Dimensionamentos em maquinas virtuais da Azure
 Nesse tópico aprendi a criação de VMs como Iaas, conceito de conteiner sobre serviços, kubernets um serviços de orquestração de serviços, serviços de aplicativos, Vnet VPN da nuvem, express route que utiliza uma conexão direta com a microsoft, Azure function baseado em eventos no sistema.
+
+## Dominando o Armazenamento na Azure
+Nesse tópico aprendi sobre os tipos de armazenamento (Blob, Arquivos, tabelas, etc), os tipos de redundância para o armazenamento (LRS (Local), ZRS (Zona), GRS (Geográfica)), camada de acesso de uso dos arquivos armazenados (Frequentes, esporádicos, frio, arquivo morto), azure data box qué um server com até 80TB, e o AZCopy que um programa em linha de códigos que possibilita a transferncia de arquivos para a nuvem, ou via interface do painel de armazenamento da azure.
