@@ -24,3 +24,10 @@ Neste tópico, aprendi a criação de usuários no Microsoft entra ID (antigo ac
 
 ## Otimizando Custos no Azure
 Neste tópico aprendi sobre a calculadora de custos estimados da Azure, onde podemos simular os valores dos serviços e recursos que iremos contratar e com isso conseguimos saber um valor para mostrarmos para nossa organização ou clientes. Aprendi os modos que podem deixar os custos mais em conta, como reservando a maquina por 3 anos, redefinindo o tempo de uso do recurso, onde se não formos utilizar por tempo certos períodos podemos ter um valor menos nos custos. E mostrou na plataforma onde mostra os custos e onde a própria Azure da dicas de como economizar de acordo com o uso dos recursos.  
+
+## Gerenciando Politicas em Acessos Azure
+Neste tópico aprendi sobre o Portal de Confiança do Serviço da Microsoft, onde mostra as certificações da Microsoft, regulamentações e padrões de segurança da informações dos dados. Os regulamentos de cada pais e suas leis de proteção de dados. Aprendi sobre polices e como aplica-las nos recursos, assinaturas, e que uma regra dentro do grupo de recursos herda para todos os grupos desse recurso. Microsoft Purview que e faz o gerenciamento de governança, riscos e conformidade de dados, atua no compliance dos dados onde mostra a descoberta, classificação e linhagem dos dados.
+
+
+
+
