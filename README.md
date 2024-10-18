@@ -31,3 +31,5 @@ Neste tópico aprendi sobre o Portal de Confiança do Serviço da Microsoft, ond
 ## Ferramentas de Implantação na Azure
 Neste tópico aprendi sobre o Azure Arc que faz um gerenciamento multicloud de outros recursos de outras plataformas como a AWS Nuvem e Google Cloud Plataforma, ARM que é uma camada de gerenciamento que permite criar, atualizar e excluir recursos  na assinatura da Azure, que utiliza arquivos de modelo .JSON para o gerenciamento do ARM. Mostrou também os tipos interações do azzure que podem ser utilizados como o próprio portal para a criação de assinaturas, ou recursos, Azure power shell, Azure Cloud Shell e CLI.
 
+## Monitoramento Inteligente com o Azure
+Neste tópico aprendi sobre o Azure Monitor, onde podemos monitorar como esta o funcionamento das nossas aplicações, Resource Health que mostra se tem alguma indisponibilidade na nuvem e em qual região, integridade dos serviços, assistente Azure que gera confiabilidade, segurança, desempenho, custo e excelência operacional.
