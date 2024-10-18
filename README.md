@@ -28,6 +28,6 @@ Neste tópico aprendi sobre a calculadora de custos estimados da Azure, onde pod
 ## Gerenciando Politicas em Acessos Azure
 Neste tópico aprendi sobre o Portal de Confiança do Serviço da Microsoft, onde mostra as certificações da Microsoft, regulamentações e padrões de segurança da informações dos dados. Os regulamentos de cada pais e suas leis de proteção de dados. Aprendi sobre polices e como aplica-las nos recursos, assinaturas, e que uma regra dentro do grupo de recursos herda para todos os grupos desse recurso. Microsoft Purview que e faz o gerenciamento de governança, riscos e conformidade de dados, atua no compliance dos dados onde mostra a descoberta, classificação e linhagem dos dados.
 
-
-
+## Ferramentas de Implantação na Azure
+Neste tópico aprendi sobre o Azure Arc que faz um gerenciamento multicloud de outros recursos de outras plataformas como a AWS Nuvem e Google Cloud Plataforma, ARM que é uma camada de gerenciamento que permite criar, atualizar e excluir recursos  na assinatura da Azure, que utiliza arquivos de modelo .JSON para o gerenciamento do ARM. Mostrou também os tipos interações do azzure que podem ser utilizados como o próprio portal para a criação de assinaturas, ou recursos, Azure power shell, Azure Cloud Shell e CLI.
 
